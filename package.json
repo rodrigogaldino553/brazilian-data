@@ -1,0 +1,20 @@
+{
+  "name": "brazilian-data",
+  "version": "1.0.0",
+  "description": "This library aims to create features that can help in certain situations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasaugustscode/brazilian-data.git"
+  },
+  "keywords": ["brasil", "brazil", "formatação", "format"],
+  "author": "Lucas Augusto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasaugustscode/brazilian-data/issues"
+  },
+  "homepage": "https://github.com/lucasaugustscode/brazilian-data#readme"
+}
