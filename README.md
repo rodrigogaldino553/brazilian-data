@@ -16,7 +16,7 @@ const { getCep } = require("brazilian-data") - Call the function.
 ``` 
 
 ```js
-getCep(value)
+- getCep(value)
 ```
 With this function the value will already return as expected.
 
