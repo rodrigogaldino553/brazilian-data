@@ -12,8 +12,9 @@ npm install brazilian-data
 *You can use it by calling the following function*
 
 ```js
-const { getCep } = require("brazilian-data") - Call the function.
+const { getCep } = require("brazilian-data")
 ``` 
+Call the function.
 
 ```js
 - getCep(value)
